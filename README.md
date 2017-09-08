@@ -21,8 +21,8 @@
 
 - - -
 
-## Best Practices
-###Naming (Conventions) Things
+# Best Practices
+### Naming (Conventions) Things
 - Use lowercase for naming files, folders and in markup
 - Use a hyphen (-) or an underscore (_) and not a space ( %20) when seperating phrases/words in naming files, folders and in markup
 
