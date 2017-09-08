@@ -3,7 +3,7 @@
 
 - [Draft](#draft)
 - [Revision](#revision)
-- [Best Practices](#best-practices
+- [Best Practices](#best-practices)
 
 - - -
 
