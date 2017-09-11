@@ -38,6 +38,11 @@
 - Use CSS for more presentational elements
 - Use Style Sheets (CSS) to keep fonts, layouts and colors open to being adujusted by the individual viewer
 
+## About the Author
+# Caddy Cicogna
+![selfie image for about the author](img/aboutmephoto2.jpg)
+- Caddy Cicogna is a 19 year old female artist from Roaming Shores, OH. She is currently residencing in Beverly, MA for her second year as a student at Montserrat College of art. She plans to major in Printmaking and minor in Art Education. 
+
 - - -
 
 # Best Practices
