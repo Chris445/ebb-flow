@@ -48,8 +48,11 @@
 ### :sunny: :art: Caddy Cicogna :taurus: 
 
 <img align="left" width="100" height="100" src="img/aboutmephoto5.jpg"> 
-Caddy Cicogna is a 19 year old female artist from Roaming Shores, OH. She is currently residencing in Beverly, MA for her second year as a student at Montserrat College of art. She plans to major in Printmaking and minor in Art Education. 
-
+Caddy Cicogna is a 19 year old female artist from Roaming Shores, OH. 
+She is currently residencing in Beverly, MA for her second year as a student at Montserrat College of art.
+You can find her anywhere from working in Montserrat's Paul Scott Library, creating and exploring new things in the studio and helping at school events.
+She plans to major in Printmaking and minor in Art Education. 
+  
 
 
 - - -
