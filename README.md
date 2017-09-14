@@ -39,6 +39,7 @@
 - Use HTML for informational elements
 - Use CSS for more presentational elements
 - Use Style Sheets (CSS) to keep fonts, layouts and colors open to being adujusted by the individual viewer
+- The web must be adaptable to every viewers individual needs and screens 
 
 ## About the Author
 # Caddy Cicogna
