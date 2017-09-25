@@ -4,7 +4,7 @@
 - [Draft](#draft)
 - [Revision](#revision)
 - [Final](#final)
-- [Best Practices](#best-practices-notes)
+- [Best Practices](#best-practices)
 
 - - -
 
@@ -20,9 +20,8 @@
 
 ## About the Author
 ### Caddy Cicogna
-![selfie image for about the author](img/img/aboutmephoto1.jpg) 
-![selfie image for about the author](img/aboutmephoto5.jpg)
-<img align="left" width="100" height="100" src="img/aboutmephoto5.jpg">
+ 
+<img align="left" width="100" height="100" src="img/aboutmephoto1.jpg">
 Caddy Cicogna is a 19 year old female artist from Roaming Shores, OH. She is currently residencing in Beverly, MA for her second year as a student at Montserrat College of art. She plans to major in Printmaking and minor in Art Education. 
 
 - - -
