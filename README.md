@@ -3,7 +3,8 @@
 
 - [Draft](#draft)
 - [Revision](#revision)
-- [Best Practices](#best-practices)
+- [Final](#final)
+- [Best Practices](#best-practices-notes)
 
 - - -
 
@@ -38,11 +39,12 @@
 
 ## Notes to take away
 
+- The web is based from the print medium
 - We must keep in mind the web is a seperate new medium that is developing and growing
 - Use HTML for informational elements
 - Use CSS for more presentational elements
 - Use Style Sheets (CSS) to keep fonts, layouts and colors open to being adujusted by the individual viewer
-- The web must be adaptable to every viewers individual needs and screens 
+- Keep websites FLEXABLE
 
 ## About the Author
 ### :sunny: :art: Caddy Cicogna :taurus: 
@@ -53,6 +55,15 @@ She is currently residencing in Beverly, MA for her second year as a student at 
 You can find her anywhere from working in Montserrat's Paul Scott Library, creating and exploring new things in the studio and helping at school events.
 She plans to major in Printmaking and minor in Art Education. 
   
+
+- - -
+
+# Final
+
+- [index.html]()
+- [summary.html]()
+- [summary.md]()
+ 
 
 
 - - -
