@@ -62,9 +62,9 @@ She plans to major in Printmaking and minor in Art Education.
 
 # Final
 
-- [index.html]()
-- [summary.html]()
-- [summary.md]()
+- [index.html](index.html)
+- [summary.html](summary.html)
+- [summary.md](summary.md)
  
 
 
