@@ -62,9 +62,9 @@ She plans to major in Printmaking and minor in Art Education.
 
 # Final
 
-- [index.html](index.html)
-- [summary.html](summary.html)
-- [summary.md](summary.md)
+- [index.html](https://caddycicogna.github.io/ebb-flow/)
+- [summary.html](https://caddycicogna.github.io/ebb-flow/summary.html)
+- [summary.md](https://caddycicogna.github.io/ebb-flow/summary.md)
  
 
 
